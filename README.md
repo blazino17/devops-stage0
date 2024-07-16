@@ -1,6 +1,6 @@
-# NGINX Setup on AWS EC2
-
 Deploying a Static Website on NGINX to AWS
+
+
 This project focuses on deploying a static website using NGINX on an AWS EC2 instance running Amazon Linux 2. Below are the steps and configurations used to set up and deploy the website.
 
 Prerequisites
